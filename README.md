@@ -44,3 +44,17 @@ https://aws.amazon.com/solutions/case-studies/netflix-case-study/
 
 ## Further learning 
 https://www.lastweekinaws.com/
+
+[AWS User Groups](https://aws.amazon.com/developer/community/usergroups)
+
+[AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/)
+
+7 Day free AWS Skill Builder subscription
+https://pages.awscloud.com/GLOBAL-Other-GC-Skill-Builder-Subscription-Free-Trial.html
+
+https://reinvent.awsevents.com
+
+## Diagramming
+https://www.drawio.com
+
+https://www.lucidchart.com
