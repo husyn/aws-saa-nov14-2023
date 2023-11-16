@@ -54,6 +54,10 @@ https://pages.awscloud.com/GLOBAL-Other-GC-Skill-Builder-Subscription-Free-Trial
 
 https://reinvent.awsevents.com
 
+https://www.100daysofcloud.com
+
+[Become a Solutions Architect](https://www.linkedin.com/groups/9179284/)
+
 ## Diagramming
 https://www.drawio.com
 
