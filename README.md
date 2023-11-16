@@ -62,3 +62,7 @@ https://www.100daysofcloud.com
 https://www.drawio.com
 
 https://www.lucidchart.com
+
+## DR
+https://docs.aws.amazon.com/whitepapers/latest/disaster-recovery-workloads-on-aws/disaster-recovery-options-in-the-cloud.html
+
